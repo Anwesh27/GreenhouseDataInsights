@@ -50,7 +50,7 @@ The analysis reveals significant contributions from a few countries, underscorin
   - **Power Industry (29.04%)**: Coal-driven energy production remains dominant.  
   - **Industrial Combustion (17.77%)**: A significant factor due to high manufacturing output.  
   - **Agriculture (17.07%)**: Methane emissions from livestock and rice paddies are key contributors.
-
+  - 
 - **United States**  
   Accounting for **17.53%** of global emissions (**342.35 Gt CO2eq/yr**), the U.S. faces challenges from high per capita energy consumption. Key sources include:  
   - **Power Industry (30.20%)**: Fossil fuels dominate energy production.  
@@ -107,14 +107,26 @@ The analysis reveals significant contributions from a few countries, underscorin
 
 ---
 
-### **Conclusion**
-The diverse sources of emissions across these countries highlight the complexity of addressing global greenhouse gas challenges. Mitigation strategies must be tailored to each nation’s unique profile, focusing on dominant sectors such as agriculture, energy production, and transport. These insights emphasize the urgency of collective global action to curb emissions and achieve sustainable development goals.
 
+# 🌍 Sectoral Dynamics of Global Emissions  
 
-### **Sectoral Dynamics**  
-- **Energy Sector**: Responsible for **73%** of global emissions, predominantly from fossil fuels.  
-- **Agriculture**: Contributes **19%**, driven by methane (CH4) and nitrous oxide (N2O).  
-- **Industrial Processes**: Account for **8%,** primarily from cement and chemical production.
+| **Sector**                 | **Emissions (Mt CO₂eq/yr)** | **% Contribution** | **Key Drivers**                         |
+|----------------------------|------------------------------|--------------------|-----------------------------------------|
+| **Energy Sector**          | 497.76                       | 24.90              | Fossil fuels, electricity generation.  |
+| **Transport**              | 299.34                       | 14.97              | Road, aviation, shipping.              |
+| **Agriculture**            | 296.24                       | 14.82              | Methane (CH₄), nitrous oxide (N₂O).    |
+| **Industrial Combustion**  | 252.63                       | 12.64              | Manufacturing emissions.               |
+| **Fuel Exploitation**      | 235.67                       | 11.79              | Resource extraction and processing.    |
+| **Buildings**              | 194.71                       | 9.74               | Heating, cooling, appliances.          |
+| **Industrial Processes**   | 148.07                       | 7.41               | Cement, chemical production.           |
+| **Waste**                  | 74.61                        | 3.73               | Landfills, waste management.           |
+
+### Key Takeaways  
+- **Energy (24.9%)**: Prioritize renewable energy.  
+- **Transport (15%)**: Expand EVs and clean fuel.  
+- **Agriculture (14.8%)**: Embrace sustainable practices.  
+- **Industry (20%)**: Innovate clean technologies.  
+- **Buildings and Waste (13.5%)**: Focus on energy efficiency and recycling.  
 
 ---
 
