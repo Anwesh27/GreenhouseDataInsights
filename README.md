@@ -236,6 +236,163 @@ To combat climate change, we must:
 3. **Limit N2O**: Optimize fertilizer use in agriculture.
 4. **Reduce Fluorinated Gases**: Choose low-impact products.
 
+## Total Emissions by Sector
+
+Analyzing emissions by sector is essential for identifying key contributors to climate change. The table below details the emissions measured in **Megatonnes of Carbon Dioxide Equivalent per Year (Mt CO2eq/yr)**.
+
+| Sector              | Emissions (Mt CO2eq/yr) | Average Percentage (%) |
+|----------------------|--------------------------|-------------------------|
+| Power Industry       | 497,755.39               | 24.90                   |
+| Transport            | 299,343.45               | 14.97                   |
+| Agriculture          | 296,242.92               | 14.82                   |
+| Industrial Combustion| 252,631.39               | 12.64                   |
+| Fuel Exploitation    | 235,671.48               | 11.79                   |
+| Buildings            | 194,710.09               | 9.74                    |
+| Processes            | 148,070.71               | 7.41                    |
+| Waste                | 74,610.83                | 3.73                    |
+
+![Emissions by Sector](link_to_your_sector_chart) 
+*This analysis reveals that the **Power Industry** is the largest emitter, contributing **24.90%** of total emissions. The **Transport** and **Agriculture** sectors follow, accounting for **14.97%** and **14.82%**, respectively.*
+
+- **Power Industry**: As the top emitter, transitioning to renewable energy is critical.
+- **Transport**: Significant emissions highlight the need for cleaner transportation solutions.
+- **Agriculture**: Addressing practices in this sector can lead to meaningful reductions.
+- **Industrial Combustion and Fuel Exploitation**: These sectors also contribute notably and should be targeted for emissions reductions.
+
+# CO2 Emissions Analysis by Sector
+
+## 1. Agriculture Sector
+- **Top Emitters**:
+  - **China**: 916.45 Mt CO2eq/yr
+  - **India**: 840.60 Mt CO2eq/yr
+  - **United States**: 266.07 Mt CO2eq/yr
+- **Observations**:
+  - Agriculture contributes significantly to emissions in China and India, reflecting their large agricultural bases.
+  - Developing countries dominate emissions due to reliance on traditional farming practices.
+
+---
+
+## 2. Buildings Sector
+- **Top Emitters**:
+  - **United States**: 34,685.00 Mt CO2eq/yr
+  - **China**: 25,553.00 Mt CO2eq/yr
+  - **Russia**: 13,522.00 Mt CO2eq/yr
+- **Observations**:
+  - High emissions in developed countries highlight urban infrastructure and energy-intensive buildings.
+
+---
+
+## 3. Fuel Exploitation Sector
+- **Top Emitters**:
+  - **United States**: 15,957.71 Mt CO2eq/yr
+  - **China**: 15,708.33 Mt CO2eq/yr
+  - **Russia**: 9,328.66 Mt CO2eq/yr
+- **Observations**:
+  - Energy production methods and fossil fuel reliance significantly influence emissions.
+
+---
+
+## 4. Industrial Combustion Sector
+- **Top Emitters**:
+  - **China**: 77,547.76 Mt CO2eq/yr
+  - **United States**: 31,359.41 Mt CO2eq/yr
+  - **India**: 13,105.15 Mt CO2eq/yr
+- **Observations**:
+  - Industrial powerhouse economies exhibit high emissions due to manufacturing and industrial energy use.
+
+---
+
+## 5. Power Industry Sector
+- **Top Emitters**:
+  - **China**: 106,461.38 Mt CO2eq/yr
+  - **United States**: 101,596.97 Mt CO2eq/yr
+  - **Russia**: 46,510.84 Mt CO2eq/yr
+- **Observations**:
+  - Power generation through coal and fossil fuels is a significant contributor in top emitters.
+
+---
+
+## 6. Processes Sector
+- **Top Emitters**:
+  - **China**: 32,543.76 Mt CO2eq/yr
+  - **United States**: 7,487.46 Mt CO2eq/yr
+  - **Russia**: 5,261.87 Mt CO2eq/yr
+- **Observations**:
+  - Process-related emissions reflect industrial activities like cement production and chemical processing.
+
+---
+
+## 7. Transport Sector
+- **Top Emitters**:
+  - **United States**: 80,220.49 Mt CO2eq/yr
+  - **China**: 18,223.67 Mt CO2eq/yr
+  - **Russia**: 11,402.47 Mt CO2eq/yr
+- **Observations**:
+  - Transport emissions are predominantly from developed countries with high vehicle use.
+
+---
+
+## 8. Waste Sector
+- **Top Emitters**:
+  - **Japan**: 197.42 Mt CO2eq/yr
+  - **Spain and Andorra**: 143.10 Mt CO2eq/yr
+  - **France and Monaco**: 95.74 Mt CO2eq/yr
+- **Observations**:
+  - Developed nations have significant waste-related emissions, indicating waste management challenges.
+
+---
+
+# GWP_100_AR5_CH4 Emissions Analysis by Sector
+
+## 1. Agriculture Sector
+- **Top Emitters**:
+  - **China**: 35,603.72 Mt CO2eq/yr
+  - **India**: 26,169.23 Mt CO2eq/yr
+  - **Brazil**: 16,938.20 Mt CO2eq/yr
+- **Observations**:
+  - CH4 emissions are linked to livestock and rice cultivation in major agricultural economies.
+
+---
+
+## 2. Fuel Exploitation Sector
+- **Top Emitters**:
+  - **United States**: 20,208.37 Mt CO2eq/yr
+  - **China**: 19,034.99 Mt CO2eq/yr
+  - **Russia**: 9,813.53 Mt CO2eq/yr
+- **Observations**:
+  - Methane leaks during fossil fuel extraction contribute significantly.
+
+---
+
+## 3. Transport Sector
+- **Top Emitters**:
+  - **United States**: 504.86 Mt CO2eq/yr
+  - **China**: 122.52 Mt CO2eq/yr
+  - **Japan**: 59.60 Mt CO2eq/yr
+- **Observations**:
+  - CH4 emissions from transport are relatively low but still impactful.
+
+---
+
+## 4. Waste Sector
+- **Top Emitters**:
+  - **United States**: 9,995.77 Mt CO2eq/yr
+  - **China**: 8,971.49 Mt CO2eq/yr
+  - **India**: 4,333.21 Mt CO2eq/yr
+- **Observations**:
+  - Methane from landfills and organic waste decomposition is a key contributor.
+
+---
+
+# Empty Sectors for F-gases Emissions
+- **Agriculture, Buildings, Fuel Exploitation, Industrial Combustion, Power Industry**: No data available for F-gases emissions.
+
+---
+
+# Summary
+- **China** leads in total CO2 and CH4 emissions across multiple sectors.
+- **United States** follows closely with high emissions in transport, buildings, and industrial combustion.
+- CH4 emissions are significant in agriculture and fuel exploitation sectors.
 
 ---
 
