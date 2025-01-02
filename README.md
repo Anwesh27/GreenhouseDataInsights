@@ -121,6 +121,11 @@ The analysis reveals significant contributions from a few countries, underscorin
 
 ---
 
+### **Contributions of Top 5 Emitting Countries to Global Emissions**
+
+The following graph illustrates the contributions of the **top five emitting countries**—**China**, **United States**, **India**, **Russia**, and **Japan**—to **global greenhouse gas emissions** over the years. 
+From **1970** to **2023**, the share of emissions from these countries has increased from **48.4%** to **57.5%** of total global emissions. This rise highlights the growing impact of these major economies on the overall emissions landscape and underscores the urgent need for targeted policies to address their contributions.
+
 
 # 🌍 Sectoral Dynamics of Global Emissions  
 
@@ -141,6 +146,61 @@ The analysis reveals significant contributions from a few countries, underscorin
 - **Agriculture (14.8%)**: Embrace sustainable practices.  
 - **Industry (20%)**: Innovate clean technologies.  
 - **Buildings and Waste (13.5%)**: Focus on energy efficiency and recycling.  
+
+### **Greenhouse Gas Emissions by Continent**
+
+The distribution of **greenhouse gas emissions** varies significantly across continents, reflecting differences in industrialization, energy use, and population dynamics. The table below provides a summary of total emissions and their average percentages for each continent, measured in **gigatonnes of CO2 equivalent per year (Gt CO2eq/yr)**:
+
+| **Continent**      | **Total Emissions (Gt CO2eq/yr)** | **Average Percentage (%)** |
+|--------------------|------------------------------------|----------------------------|
+| **Asia**           | 960.02                             | 49.15                      |
+| **North America**  | 417.46                             | 21.37                      |
+| **Europe**         | 336.64                             | 17.24                      |
+| **Africa**         | 112.58                             | 5.76                       |
+| **South America**  | 94.92                              | 4.86                       |
+| **Oceania**        | 31.47                              | 1.61                       |
+
+### **Analysis of Emissions by Continent**
+
+- **Asia** is the largest contributor, accounting for **49.15%** of global emissions, driven by rapid industrial growth and population density.
+- **North America** follows with **21.37%**, largely due to high energy consumption and vehicle use.
+- **Europe**, with **17.24%** of emissions, reflects a mix of industrial activity and energy policies aimed at reducing carbon footprints.
+- **Africa** contributes **5.76%**, with lower overall emissions, though these are increasing with economic development.
+- **South America** and **Oceania** contribute **4.86%** and **1.61%**, respectively, with emissions primarily from agriculture and energy production.
+
+### **Greenhouse Gas Emissions from International Transport**
+
+International transport plays a significant role in global greenhouse gas emissions, particularly through **aviation** and **shipping**. The table below summarizes the total emissions from these sectors, measured in **gigatonnes of CO2 equivalent per year (Gt CO2eq/yr)**:
+
+| **International Transport**     | **Total Emissions (Gt CO2eq/yr)** |
+|----------------------------------|----------------------------------|
+| **International Aviation**       | 18.32                    |
+| **International Shipping**       | 27.63                    |
+
+- **International Aviation** contributes approximately **18.32 Gt CO2eq/yr**, largely due to the high fuel consumption of aircraft during long-haul flights. This sector has seen increasing emissions due to the growing demand for air travel globally.
+- **International Shipping**, with emissions totaling about **27.63 Gt CO2eq/yr**, is a major contributor to global trade logistics. While shipping is generally more fuel-efficient than aviation on a per-ton basis, the sheer volume of goods transported leads to significant emissions.
+
+A multiline graph illustrating the emissions trends from **international aviation** and **shipping** since **1970** reveals that both sectors have experienced a general increase in emissions over the years. Notably, there was a sharp decline in emissions between **2019 and 2020**, attributed to the **COVID-19 pandemic**. Lockdowns and travel restrictions significantly reduced air travel and shipping activities, leading to this temporary fall in emissions.
+
+## Greenhouse Gas Emissions by Sector
+
+Understanding the contributions of various sectors to **greenhouse gas emissions** is essential for crafting effective climate strategies. The following pie charts illustrate the significant proportions of CO2, N2O, and CH4 emissions, revealing critical insights for targeted action.
+
+### 1. CO2 Emissions by Sector
+
+![CO2 Emissions](link_to_your_CO2_pie_chart)  
+*The **CO2 emissions** chart shows that sectors such as **transport**, **power industry**, and **industrial combustion** account for approximately **70%** of total contributions. This highlights the urgent need for innovation in sustainable transportation, cleaner energy production, and efficient industrial processes.*
+
+### 2. N2O Emissions by Sector
+
+![N2O Emissions](link_to_your_N2O_pie_chart)  
+*The N2O emissions breakdown reveals that **agriculture** and **industrial processes** represent around **90%** of total emissions. This emphasizes the necessity for adopting **sustainable agricultural practices** and improving industrial management to mitigate N2O emissions effectively.*
+
+### 3. CH4 Emissions by Sector
+
+![CH4 Emissions](link_to_your_CH4_pie_chart)  
+*The CH4 emissions chart indicates that **agriculture**, **fuel exploitation**, and **waste management** collectively contribute approximately **90%** of total emissions. Addressing these sectors presents significant opportunities for reducing methane emissions through better practices and technologies.*
+
 
 ---
 
