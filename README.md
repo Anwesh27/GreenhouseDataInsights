@@ -32,12 +32,14 @@ A focused analysis of global greenhouse gas emissions trends, contributors, and 
 
 ## 🌟 **Key Outcomes & Achievements (Quantitative Insights)**  
 
-### **Global Emissions Growth**  
-- **1970**: Global greenhouse gas (GHG) emissions were **14 gigatonnes (Gt)**.  
-- **2023**: Emissions rose to over **55 Gt CO2 equivalent (CO2e)**.  
-- **Key Period**: Highest emissions growth occurred between **2000 and 2010**, driven by rapid industrialization.  
+### **Global Emissions Growth**
 
-### **Top Contributors**  
+*   **1970**: Global greenhouse gas (GHG) emissions totaled **25.42 Gt CO2 equivalent (CO2e)** per year.
+*   **2023**: Emissions surged to over **53.74 Gt CO2 equivalent (CO2e)** per year.
+*   **Percentage Increase**: The increase in emissions from 1970 to 2023 is approximately **111.13%**.
+*   **Key Period**: The most significant emissions growth occurred between **2002 and 2008**, primarily driven by **rapid industrialization**.
+  
+
 ### **Top Contributors to Global Greenhouse Gas Emissions**
 
 Greenhouse gas emissions are a critical challenge in addressing climate change. They stem from various sectors, shaped by a country’s industrial base, energy policies, and resource utilization. Below is a comprehensive overview of the top contributors, detailing their emission percentages, total emissions, and the primary sources driving these figures.
