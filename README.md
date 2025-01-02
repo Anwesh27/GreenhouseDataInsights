@@ -38,6 +38,18 @@ A focused analysis of global greenhouse gas emissions trends, contributors, and 
 *   **2023**: Emissions surged to over **53.74 Gt CO2 equivalent (CO2e)** per year.
 *   **Percentage Increase**: The increase in emissions from 1970 to 2023 is approximately **111.13%**.
 *   **Key Period**: The most significant emissions growth occurred between **2002 and 2008**, primarily driven by **rapid industrialization**.
+
+### **Greenhouse Gas Emissions Trends**
+
+The following graph illustrates the **greenhouse gas emissions trends** from **1970 to 2023** for the **United States**, **China**, **India**, **Russia**, and **Japan**:
+
+From the multi-line graph, we observe that:
+
+- **China** exhibits the **sharpest rise in emissions**, especially from **2000 to 2023**, reflecting its **rapid industrialization** and **economic growth**.
+- Although the **United States** started with the **highest emissions** in **1970**, **China** surpassed it to become the **highest emitter** by **2023**.
+- The emissions trends for **India**, **Russia**, and **Japan** show a relatively **level graph**, indicating a more **balanced rise in emissions** over the same period.
+
+This analysis underscores the **shifting dynamics** of global emissions, highlighting the need for **concerted international efforts** to address the challenges posed by **rising emissions** from **major contributors**.
   
 
 ### **Top Contributors to Global Greenhouse Gas Emissions**
