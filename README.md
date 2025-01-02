@@ -4,10 +4,16 @@ A focused analysis of global greenhouse gas emissions trends, contributors, and 
 ---
 
 ## 📌 **Project Objectives**  
-1. Explore greenhouse gas emissions data across dimensions: country, sector, and substance.  
-2. Analyze temporal trends (1970-2023) to provide actionable insights into emissions reduction.  
+1. Explore **greenhouse gas emissions data** across multiple dimensions, including:  
+   - Emissions by country and macroregions  
+   - Emissions by continents and land cover  
+   - Emissions by sector (e.g., energy, agriculture, industry)  
+   - Emissions by international transport (shipping and aviation)  
+   - Emissions by gas substance (e.g., CO₂, CH₄, N₂O)  
+   - Emissions per GDP and per capita by country  
+2. Analyze **temporal trends (1970-2023)** to provide actionable insights into emissions reduction.  
 3. Utilize Python's data analysis libraries to process and visualize emissions data effectively.  
-4. Develop technical proficiency in data handling, statistical analysis, and storytelling.  
+4. Develop technical proficiency in **data handling, statistical analysis, and storytelling** to enhance understanding and communication of findings.  
 
 ---
 
