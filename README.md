@@ -32,9 +32,78 @@ A focused analysis of global greenhouse gas emissions trends, contributors, and 
 - **Key Period**: Highest emissions growth occurred between **2000 and 2010**, driven by rapid industrialization.  
 
 ### **Top Contributors**  
-- **China**: Emits the highest percentage of global emissions, approximately **28%**.  
-- **USA**: Contributes **15%**, with high per capita emissions of **14.6 tonnes annually**.  
-- **India**: Accounts for **7%**, showcasing the increasing role of developing nations.  
+### **Top Contributors to Global Greenhouse Gas Emissions**
+
+Greenhouse gas emissions are a critical challenge in addressing climate change. They stem from various sectors, shaped by a country’s industrial base, energy policies, and resource utilization. Below is a comprehensive overview of the top contributors, detailing their emission percentages, total emissions, and the primary sources driving these figures.
+
+#### **Global Contributors and Emission Profiles**
+The analysis reveals significant contributions from a few countries, underscoring the importance of targeted strategies for reduction:
+
+- **China**  
+  As the largest emitter, China contributes **18.96%** of global emissions, amounting to **370.33 Gt CO2eq/yr**. Its emissions are largely driven by:  
+  - **Power Industry (29.04%)**: Coal-driven energy production remains dominant.  
+  - **Industrial Combustion (17.77%)**: A significant factor due to high manufacturing output.  
+  - **Agriculture (17.07%)**: Methane emissions from livestock and rice paddies are key contributors.
+
+- **United States**  
+  Accounting for **17.53%** of global emissions (**342.35 Gt CO2eq/yr**), the U.S. faces challenges from high per capita energy consumption. Key sources include:  
+  - **Power Industry (30.20%)**: Fossil fuels dominate energy production.  
+  - **Transport (28.34%)**: Vehicle emissions form a significant portion.  
+  - **Fuel Exploitation (31.41%)**: Oil and gas extraction processes significantly contribute.  
+
+- **Russia**  
+  Emitting **6.45%** of global greenhouse gases (**125.90 Gt CO2eq/yr**), Russia’s emissions are heavily influenced by:  
+  - **Power Industry (37.47%)**: Primarily from gas and coal.  
+  - **Fuel Exploitation (25.66%)**: Extensive oil and gas industries drive emissions.  
+  - **Buildings (23.79%)**: Energy-intensive heating systems play a role.
+
+- **India**  
+  With emissions at **5.38%** of the global total (**105.12 Gt CO2eq/yr**), India’s rapid industrialization and economic growth are key factors. Primary sources include:  
+  - **Agriculture (32.18%)**: Methane and nitrous oxide emissions from livestock and fertilizers dominate.  
+  - **Power Industry (24.29%)**: Fossil fuels remain a major energy source.  
+  - **Industrial Combustion (25.02%)**: Reflects India’s growing manufacturing sector.
+
+- **Japan**  
+  Contributing **3.48%** of global emissions (**67.95 Gt CO2eq/yr**), Japan's profile is marked by:  
+  - **Power Industry (32.46%)**: Reliance on fossil fuels post-nuclear energy reductions.  
+  - **Industrial Combustion (20.84%)**: Heavy industrial output drives emissions.  
+  - **Transport (19.66%)**: High vehicle usage contributes significantly.
+
+- **Germany**  
+  Emitting **3.07%** of global emissions (**59.94 Gt CO2eq/yr**), Germany faces challenges in:  
+  - **Power Industry (31.54%)**: Despite strides in renewable energy, coal and gas remain significant.  
+  - **Buildings (21.81%)**: Heating needs contribute to high energy demands.  
+  - **Transport (19.31%)**: Vehicle emissions persist as a major factor.
+
+- **Brazil**  
+  Accounting for **2.34%** of global emissions (**45.63 Gt CO2eq/yr**), Brazil’s profile is unique due to:  
+  - **Agriculture (48.26%)**: Land-use changes and livestock emissions dominate.  
+  - **Transport (36.54%)**: High reliance on road transport contributes significantly.  
+  - **Waste (34.65%)**: Methane from waste management is a notable contributor.
+
+- **United Kingdom**  
+  With **1.88%** of global emissions (**36.65 Gt CO2eq/yr**), the UK has made strides in reducing emissions but still faces challenges in:  
+  - **Power Industry (27.16%)**: Transitioning to renewable energy remains ongoing.  
+  - **Buildings (16.13%)**: Energy for heating plays a key role.  
+  - **Transport (15.69%)**: Vehicle emissions persist.
+
+- **Canada**  
+  Contributing **1.79%** of global emissions (**35.01 Gt CO2eq/yr**), Canada’s emissions stem from:  
+  - **Transport (21.95%)**: A major contributor due to vehicle dependency.  
+  - **Fuel Exploitation (13.08%)**: Oil sands and resource extraction are significant.  
+  - **Power Industry (12.52%)**: Fossil fuels remain prominent in energy production.
+
+- **Ukraine**  
+  Accounting for **1.61%** of global emissions (**31.42 Gt CO2eq/yr**), Ukraine’s emissions profile highlights:  
+  - **Power Industry (30.51%)**: Heavily reliant on coal and gas.  
+  - **Industrial Combustion (18.23%)**: Reflects manufacturing and processing industries.  
+  - **Fuel Exploitation (17.33%)**: Significant due to energy extraction processes.
+
+---
+
+### **Conclusion**
+The diverse sources of emissions across these countries highlight the complexity of addressing global greenhouse gas challenges. Mitigation strategies must be tailored to each nation’s unique profile, focusing on dominant sectors such as agriculture, energy production, and transport. These insights emphasize the urgency of collective global action to curb emissions and achieve sustainable development goals.
+
 
 ### **Sectoral Dynamics**  
 - **Energy Sector**: Responsible for **73%** of global emissions, predominantly from fossil fuels.  
