@@ -184,22 +184,31 @@ A multiline graph illustrating the emissions trends from **international aviatio
 
 ## Greenhouse Gas Emissions by Sector
 
-Understanding the contributions of various sectors to **greenhouse gas emissions** is essential for crafting effective climate strategies. The following pie charts illustrate the significant proportions of CO2, N2O, and CH4 emissions, revealing critical insights for targeted action.
+Understanding the contributions of various sectors to **greenhouse gas emissions** is essential for crafting effective climate strategies. The following pie charts and yearly trends illustrate the significant proportions and patterns of CO2, N2O, and CH4 emissions, revealing critical insights for targeted action.
 
 ### 1. CO2 Emissions by Sector
 
 ![CO2 Emissions](link_to_your_CO2_pie_chart)  
-*The **CO2 emissions** chart shows that sectors such as **transport**, **power industry**, and **industrial combustion** account for approximately **70%** of total contributions. This highlights the urgent need for innovation in sustainable transportation, cleaner energy production, and efficient industrial processes.*
+*The **CO2 emissions** chart shows that sectors such as **transport**, **power industry**, and **industrial combustion** account for approximately **70%** of total contributions. Notably, the power industry has experienced the **sharpest rise since 1970**, highlighting an urgent need for innovation in **sustainable energy production**. Meanwhile, the industrial combustion sector has seen a significant increase since **2002**, necessitating cleaner technologies.*
+
+![CO2 Yearly Trends](link_to_your_CO2_trends_chart)  
+*This graph illustrates the yearly trends in CO2 emissions, reinforcing the need for strategic interventions to reverse these upward trajectories.*
 
 ### 2. N2O Emissions by Sector
 
 ![N2O Emissions](link_to_your_N2O_pie_chart)  
-*The N2O emissions breakdown reveals that **agriculture** and **industrial processes** represent around **90%** of total emissions. This emphasizes the necessity for adopting **sustainable agricultural practices** and improving industrial management to mitigate N2O emissions effectively.*
+*The N2O emissions breakdown reveals that **agriculture** and **industrial processes** represent around **90%** of total emissions. The trends indicate that the **power industry** and **transport** sectors have experienced the **sharpest rise**, while industrial combustion also saw a marked increase since **2002**. This underscores the necessity for adopting **sustainable practices** and improved management in these sectors.*
+
+![N2O Yearly Trends](link_to_your_N2O_trends_chart)  
+*The yearly trends for N2O emissions highlight the urgency of addressing these increases to mitigate environmental impact.*
 
 ### 3. CH4 Emissions by Sector
 
 ![CH4 Emissions](link_to_your_CH4_pie_chart)  
-*The CH4 emissions chart indicates that **agriculture**, **fuel exploitation**, and **waste management** collectively contribute approximately **90%** of total emissions. Addressing these sectors presents significant opportunities for reducing methane emissions through better practices and technologies.*
+*The CH4 emissions chart indicates that **agriculture**, **fuel exploitation**, and **waste management** collectively contribute approximately **90%** of total emissions. Interestingly, these sectors have experienced a **stable rise** over the years, suggesting the need for targeted interventions to mitigate methane emissions.*
+
+![CH4 Yearly Trends](link_to_your_CH4_trends_chart)  
+*The yearly trends for CH4 emissions demonstrate a consistent upward trajectory, emphasizing the importance of innovative solutions to curb these emissions.*
 
 
 ---
