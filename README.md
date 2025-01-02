@@ -13,12 +13,12 @@ A focused analysis of global greenhouse gas emissions trends, contributors, and 
 
 ## 🚀 **Key Features**  
 ### **Data Handling and Cleaning**  
-- Imported and processed data from multiple Excel sheets containing **200+ rows**.  
+- Imported and processed data from multiple Excel sheets.  
 - Addressed missing values, standardized formats, and merged datasets for comprehensive analysis.  
 - Filtered, grouped, and calculated metrics such as **total emissions**, **percentage contributions**, and **annual trends**.
 
 ### **Advanced Analytics**  
-- Created **20+ visualizations** using `matplotlib`, `seaborn`, and `plotly` for interactivity.  
+- Created **50+ interactive and static visualizations** using `matplotlib`, `seaborn`, and `plotly` for advanced data insights.  
 - Calculated emission distributions by sectors and substances to reveal actionable insights.  
 - Applied statistical summaries to highlight correlations and trends.
 
