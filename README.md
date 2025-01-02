@@ -326,7 +326,7 @@ Analyzing emissions by sector is essential for identifying key contributors to c
 - **Observations**:
   - Developed nations have significant waste-related emissions, indicating waste management challenges.
 ---
-# GWP_100_AR5_CH4 Emissions Analysis by Sector
+# CH4 Emissions Analysis by Sector
 
 ## 1. Agriculture Sector
 - **Top Emitters**:
@@ -359,9 +359,6 @@ Analyzing emissions by sector is essential for identifying key contributors to c
   - **India**: 4,333.21 Mt CO2eq/yr
 - **Observations**:
   - Methane from landfills and organic waste decomposition is a key contributor.
----
-# Empty Sectors for F-gases Emissions
-- **Agriculture, Buildings, Fuel Exploitation, Industrial Combustion, Power Industry**: No data available for F-gases emissions.
 ---
 ### Summary: A Global Emissions Mosaic  
 
