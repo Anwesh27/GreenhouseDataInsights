@@ -1,10 +1,6 @@
 # 🌍 **Comprehensive Greenhouse Gas Emissions Analysis (1970-2023)**  
 A focused analysis of global greenhouse gas emissions trends, contributors, and actionable insights using advanced Python analytics and interactive visualizations. This project demonstrates the power of data-driven storytelling to address environmental challenges.
-
-![image](https://github.com/user-attachments/assets/e57945ce-a7d7-4112-9152-73da570fa0b4)
-
 ---
-
 ## 📌 **Project Objectives**  
 1. Explore **greenhouse gas emissions data** across multiple dimensions, including:  
    - Emissions by country and macroregions  
@@ -36,10 +32,13 @@ A focused analysis of global greenhouse gas emissions trends, contributors, and 
 
 ### **Global Emissions Growth**
 
+![Total Greenhouse Gas Emissions from 1970 to 2023](https://github.com/user-attachments/assets/71e2dbce-95a8-480a-a567-85ca2308ba47)
+
 *   **1970**: Global greenhouse gas (GHG) emissions totaled **25.42 Gt CO2 equivalent (CO2e)** per year.
 *   **2023**: Emissions surged to over **53.74 Gt CO2 equivalent (CO2e)** per year.
 *   **Percentage Increase**: The increase in emissions from 1970 to 2023 is approximately **111.13%**.
 *   **Key Period**: The most significant emissions growth occurred between **2002 and 2008**, primarily driven by **rapid industrialization**.
+
 
 ### **Greenhouse Gas Emissions Trends**
 
