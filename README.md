@@ -126,7 +126,6 @@ The analysis reveals significant contributions from a few countries, underscorin
 The following graph illustrates the contributions of the **top five emitting countries**—**China**, **United States**, **India**, **Russia**, and **Japan**—to **global greenhouse gas emissions** over the years. 
 From **1970** to **2023**, the share of emissions from these countries has increased from **48.4%** to **57.5%** of total global emissions. This rise highlights the growing impact of these major economies on the overall emissions landscape and underscores the urgent need for targeted policies to address their contributions.
 
-
 # 🌍 Sectoral Dynamics of Global Emissions  
 
 | **Sector**                 | **Emissions (Mt CO₂eq/yr)** | **% Contribution** | **Key Drivers**                         |
@@ -209,6 +208,33 @@ Understanding the contributions of various sectors to **greenhouse gas emissions
 
 ![CH4 Yearly Trends](link_to_your_CH4_trends_chart)  
 *The yearly trends for CH4 emissions demonstrate a consistent upward trajectory, emphasizing the importance of innovative solutions to curb these emissions.*
+
+## Major Greenhouse Gases Contributions
+
+Understanding the contributions of greenhouse gases is vital for effective climate action. The following bar chart shows emissions measured in **Megatonnes of Carbon Dioxide Equivalent per Year (Mt CO2eq/yr)**.
+
+
+| Substance          | Emissions (Mt CO2eq/yr) | Average Percentage (%) |
+|--------------------|--------------------------|-------------------------|
+| CO2                | 1,424,122                | 71.24                   |
+| CH4                | 435,465                  | 21.78                   |
+| N2O                | 107,318                  | 5.37                    |
+| Fluorinated Gases  | 32,132                   | 1.61                    |
+
+![Greenhouse Gas Emissions](link_to_your_bar_chart)  
+*CO2 accounts for **71.24%** of total emissions, making it the primary driver of climate change. CH4 contributes **21.78%**, primarily from agriculture and landfills. N2O and fluorinated gases contribute **5.37%** and **1.61%**, respectively.*
+
+### Key Insights
+- **CO2**: Major sources include fossil fuels and deforestation.
+- **CH4**: Highly potent, sourced from agriculture and fossil fuels.
+- **N2O**: Emitted from agricultural activities.
+- **Fluorinated Gases**: Though minimal, they are extremely powerful.
+
+To combat climate change, we must:
+1. **Reduce CO2**: Promote renewable energy and sustainable transport.
+2. **Mitigate CH4**: Improve agricultural and waste management practices.
+3. **Limit N2O**: Optimize fertilizer use in agriculture.
+4. **Reduce Fluorinated Gases**: Choose low-impact products.
 
 
 ---
