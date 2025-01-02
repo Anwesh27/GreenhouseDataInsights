@@ -269,9 +269,7 @@ Analyzing emissions by sector is essential for identifying key contributors to c
 - **Observations**:
   - Agriculture contributes significantly to emissions in China and India, reflecting their large agricultural bases.
   - Developing countries dominate emissions due to reliance on traditional farming practices.
-
 ---
-
 ## 2. Buildings Sector
 - **Top Emitters**:
   - **United States**: 34,685.00 Mt CO2eq/yr
@@ -279,9 +277,7 @@ Analyzing emissions by sector is essential for identifying key contributors to c
   - **Russia**: 13,522.00 Mt CO2eq/yr
 - **Observations**:
   - High emissions in developed countries highlight urban infrastructure and energy-intensive buildings.
-
 ---
-
 ## 3. Fuel Exploitation Sector
 - **Top Emitters**:
   - **United States**: 15,957.71 Mt CO2eq/yr
@@ -289,9 +285,7 @@ Analyzing emissions by sector is essential for identifying key contributors to c
   - **Russia**: 9,328.66 Mt CO2eq/yr
 - **Observations**:
   - Energy production methods and fossil fuel reliance significantly influence emissions.
-
 ---
-
 ## 4. Industrial Combustion Sector
 - **Top Emitters**:
   - **China**: 77,547.76 Mt CO2eq/yr
@@ -299,9 +293,7 @@ Analyzing emissions by sector is essential for identifying key contributors to c
   - **India**: 13,105.15 Mt CO2eq/yr
 - **Observations**:
   - Industrial powerhouse economies exhibit high emissions due to manufacturing and industrial energy use.
-
 ---
-
 ## 5. Power Industry Sector
 - **Top Emitters**:
   - **China**: 106,461.38 Mt CO2eq/yr
@@ -309,9 +301,7 @@ Analyzing emissions by sector is essential for identifying key contributors to c
   - **Russia**: 46,510.84 Mt CO2eq/yr
 - **Observations**:
   - Power generation through coal and fossil fuels is a significant contributor in top emitters.
-
 ---
-
 ## 6. Processes Sector
 - **Top Emitters**:
   - **China**: 32,543.76 Mt CO2eq/yr
@@ -319,9 +309,7 @@ Analyzing emissions by sector is essential for identifying key contributors to c
   - **Russia**: 5,261.87 Mt CO2eq/yr
 - **Observations**:
   - Process-related emissions reflect industrial activities like cement production and chemical processing.
-
 ---
-
 ## 7. Transport Sector
 - **Top Emitters**:
   - **United States**: 80,220.49 Mt CO2eq/yr
@@ -329,9 +317,7 @@ Analyzing emissions by sector is essential for identifying key contributors to c
   - **Russia**: 11,402.47 Mt CO2eq/yr
 - **Observations**:
   - Transport emissions are predominantly from developed countries with high vehicle use.
-
 ---
-
 ## 8. Waste Sector
 - **Top Emitters**:
   - **Japan**: 197.42 Mt CO2eq/yr
@@ -339,9 +325,7 @@ Analyzing emissions by sector is essential for identifying key contributors to c
   - **France and Monaco**: 95.74 Mt CO2eq/yr
 - **Observations**:
   - Developed nations have significant waste-related emissions, indicating waste management challenges.
-
 ---
-
 # GWP_100_AR5_CH4 Emissions Analysis by Sector
 
 ## 1. Agriculture Sector
@@ -351,9 +335,7 @@ Analyzing emissions by sector is essential for identifying key contributors to c
   - **Brazil**: 16,938.20 Mt CO2eq/yr
 - **Observations**:
   - CH4 emissions are linked to livestock and rice cultivation in major agricultural economies.
-
 ---
-
 ## 2. Fuel Exploitation Sector
 - **Top Emitters**:
   - **United States**: 20,208.37 Mt CO2eq/yr
@@ -361,9 +343,7 @@ Analyzing emissions by sector is essential for identifying key contributors to c
   - **Russia**: 9,813.53 Mt CO2eq/yr
 - **Observations**:
   - Methane leaks during fossil fuel extraction contribute significantly.
-
 ---
-
 ## 3. Transport Sector
 - **Top Emitters**:
   - **United States**: 504.86 Mt CO2eq/yr
@@ -371,9 +351,7 @@ Analyzing emissions by sector is essential for identifying key contributors to c
   - **Japan**: 59.60 Mt CO2eq/yr
 - **Observations**:
   - CH4 emissions from transport are relatively low but still impactful.
-
 ---
-
 ## 4. Waste Sector
 - **Top Emitters**:
   - **United States**: 9,995.77 Mt CO2eq/yr
@@ -381,18 +359,42 @@ Analyzing emissions by sector is essential for identifying key contributors to c
   - **India**: 4,333.21 Mt CO2eq/yr
 - **Observations**:
   - Methane from landfills and organic waste decomposition is a key contributor.
-
 ---
-
 # Empty Sectors for F-gases Emissions
 - **Agriculture, Buildings, Fuel Exploitation, Industrial Combustion, Power Industry**: No data available for F-gases emissions.
-
 ---
+### Summary: A Global Emissions Mosaic  
 
-# Summary
-- **China** leads in total CO2 and CH4 emissions across multiple sectors.
-- **United States** follows closely with high emissions in transport, buildings, and industrial combustion.
-- CH4 emissions are significant in agriculture and fuel exploitation sectors.
+- **China**:  
+  - **Power Generation**: Dominates with **106,461 Mt CO2eq/yr**, primarily from coal.  
+  - **Industrial Combustion**: Contributes **77,548 Mt CO2eq/yr**, driving global manufacturing.  
+  - **Agriculture**: Methane emissions reach **916 Mt CO2eq/yr**, reflecting extensive livestock farming.  
+- **United States**:  
+  - **Transportation**: Leading sector with **80,220 Mt CO2eq/yr**, driven by vehicle dependence.  
+  - **Waste Management**: Emits **9,996 Mt CO2eq/yr**, highlighting the need for better recycling practices.  
+  - **Natural Gas Production**: Methane leaks pose a significant risk, contributing to greenhouse gases.
+- **India**:  
+  - **Agricultural Emissions**: High methane output reflects its agrarian focus; estimated **1,250 Mt CO2eq/yr** from enteric fermentation.  
+  - **Coal Dependence**: Power generation heavily relies on coal, impacting air quality and emissions.
+- **Brazil**:  
+  - **Deforestation for Agriculture**: A major CO2 source, contributing to **2,140 Mt CO2eq/yr**.  
+  - **Livestock Farming**: Methane emissions from cattle add to the environmental burden, showcasing the clash between food production and conservation.
+- **European Union**:  
+  - **Building Energy Use**: Lower emissions due to stringent regulations and energy efficiency initiatives, around **34,000 Mt CO2eq/yr** collectively.  
+  - **Transportation Sector**: A shift towards electric vehicles aims to cut emissions significantly by **2030**.
+- **Russia**:  
+  - **Fuel Exploitation**: High methane emissions from oil and gas sectors reflect the economy's reliance on fossil fuels.  
+  - **Cold Climate**: Increases emissions from heating, with buildings contributing notably to overall emissions.
+- **Australia**:  
+  - **Mining and Energy Production**: Significant emissions from coal mining, around **10,000 Mt CO2eq/yr**.  
+  - **Livestock Emissions**: A substantial source of methane, highlighting the environmental impact of its cattle industry.
+
+#### Unique Observations:  
+- **Methane Emissions**: Both India and Brazil face high methane outputs from agriculture, emphasizing the need for sustainable farming practices.  
+- **Transportation Trends**: The U.S. leads in transport emissions, while the EU is pivoting towards electric mobility to combat this sector's environmental impact.  
+- **Coal Reliance**: China and Australia demonstrate how coal continues to be a double-edged sword: a key energy source and a major emissions contributor.  
+- **Energy Efficiency**: The EU's focus on building efficiency showcases a proactive approach to reducing emissions, contrasting with high-energy demands in colder regions like Russia.  
+- **Diverse Strategies Needed**: Each country's unique challenges necessitate tailored strategies that address local economic structures and environmental needs.
 
 ---
 
