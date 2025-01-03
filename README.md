@@ -10,7 +10,7 @@ A focused analysis of global greenhouse gas emissions trends, contributors, and 
    - Emissions by sector (e.g., energy, agriculture, industry)  
    - Emissions by international transport (shipping and aviation)  
    - Emissions by gas substance (e.g., CO₂, CH₄, N₂O)  
-   - Emissions per GDP and per capita by country  
+   - Emissions per GDP and per-capita by country  
 2. Analyze **temporal trends (1970-2023)** to provide actionable insights into emissions reduction.  
 3. Utilize Python's data analysis libraries to process and visualize emissions data effectively.  
 4. Develop technical proficiency in **data handling, statistical analysis, and storytelling** to enhance understanding and communication of findings.  
@@ -31,6 +31,11 @@ A focused analysis of global greenhouse gas emissions trends, contributors, and 
 ---
 
 ## 🌟 **Key Outcomes & Achievements (Quantitative Insights)**  
+
+### 🌿 **Global Emissions map**
+
+![map](https://github.com/user-attachments/assets/d61e581d-235d-423a-a640-f92d6b2eca1d)
+
 
 ### 🌱 **Global Emissions Growth**
 
