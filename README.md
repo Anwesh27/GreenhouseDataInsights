@@ -483,7 +483,6 @@ In the early 1970s, the world was witnessing rapid industrialization and urbaniz
 - **Other Lands**: Interestingly, this category showcases negative emissions, acting as a natural ally in our fight against climate change. Historically, wetlands and grasslands have played a crucial role in sequestering carbon, emphasizing the importance of protecting these ecosystems.
 - **Fires**: In the last few years, a new chapter has unfolded. The line representing emissions from fires has seen a slight but noticeable increase. This trend serves as a reminder of the growing frequency and intensity of wildfires, exacerbated by climate change and land mismanagement. The 2020 Australian bushfires, which burned millions of acres and released an estimated 400 million tonnes of CO2, exemplify this alarming shift.
 
-![Net Global Greenhouse Gas Emissions by Land Change Factors](link_to_your_graph_image)
 
 ### 🌏Net Global Greenhouse Gas Emissions by each Macro-region (1973-2023)
 
