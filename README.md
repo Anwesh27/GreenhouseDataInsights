@@ -1,7 +1,6 @@
 # 🌍 **Comprehensive Greenhouse Gas Emissions Analysis (1970-2023)**  
 A focused analysis of global greenhouse gas emissions trends, contributors, and actionable insights using advanced Python analytics and interactive visualizations. This project demonstrates the power of data-driven storytelling to address environmental challenges.
 
-#greenhousegas #climatechange #emissionsanalysis #datavisualization #dataanalysis #python #globalwarming #trendsanalysis #sustainability #environmentalscience
 ---
 
 ## 📌 **Project Objectives**  
@@ -515,6 +514,9 @@ This project lays the foundation for:
 
 ## 🎉 **Acknowledgements**
 This project reflects my passion for solving critical global issues through data-driven insights. If you found this repository helpful or would like to collaborate, feel free to reach out!
+
+##📎 **Hashtags for Promotion**
+ #greenhousegas #climatechange #emissionsanalysis #datavisualization #dataanalysis #python #globalwarming #trendsanalysis #sustainability #environmentalscience
 
 ## 📫 **Contact Information**
 - **Name: Anwesh Nandi**
