@@ -63,6 +63,7 @@ Greenhouse gas emissions are a critical challenge in addressing climate change. 
 
 ![Top 10 Countries by Total Emissions](https://github.com/user-attachments/assets/5cd10af7-417e-4231-b049-b4dbe2a823e7)
 
+---
 
 ### **Global Contributors and Emission Profiles**
 The analysis reveals significant contributions from a few countries, underscoring the importance of targeted strategies for reduction:
@@ -72,7 +73,7 @@ The analysis reveals significant contributions from a few countries, underscorin
   - **Power Industry (29.04%)**: Coal-driven energy production remains dominant.  
   - **Industrial Combustion (17.77%)**: A significant factor due to high manufacturing output.  
   - **Agriculture (17.07%)**: Methane emissions from livestock and rice paddies are key contributors.
-  - 
+    
 - **United States**  
   Accounting for **17.53%** of global emissions (**342.35 Gt CO2eq/yr**), the U.S. faces challenges from high per capita energy consumption. Key sources include:  
   - **Power Industry (30.20%)**: Fossil fuels dominate energy production.  
@@ -127,11 +128,10 @@ The analysis reveals significant contributions from a few countries, underscorin
   - **Industrial Combustion (18.23%)**: Reflects manufacturing and processing industries.  
   - **Fuel Exploitation (17.33%)**: Significant due to energy extraction processes.
 
----
-
 ### **Contributions of Top 5 Emitting Countries to Global Emissions**
 
 The following graph illustrates the contributions of the **top five emitting countries**—**China**, **United States**, **India**, **Russia**, and **Japan**—to **global greenhouse gas emissions** over the years. 
+
 ![Percentage Contribution of Top 5 Greenhouse Gas Emitting Countries to Total Emissions (1970-2023)](https://github.com/user-attachments/assets/c4987e69-b40a-4900-8a08-24e0e4d61340)
 
 From **1970** to **2023**, the share of emissions from these countries has increased from **48.4%** to **57.5%** of total global emissions. This rise highlights the growing impact of these major economies on the overall emissions landscape and underscores the urgent need for targeted policies to address their contributions.
