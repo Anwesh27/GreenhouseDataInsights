@@ -26,7 +26,6 @@ Complete details and the full citation of the EDGAR Community GHG Database are a
 For further information, please refer to:
 - EDGAR Community GHG Database: [EDGAR - Emissions Database for Global Atmospheric Research](https://edgar.jrc.ec.europa.eu)
 - IEA Data and Statistics: [IEA](https://www.iea.org/data-and-statistics)
-- For more information, visit the official EDGAR report:  [EDGAR Report 2024](https://edgar.jrc.ec.europa.eu/report_2024#intro)
 
 ---
 
