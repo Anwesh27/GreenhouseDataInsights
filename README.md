@@ -420,9 +420,9 @@ The line graph presents a compelling narrative of the **dramatic decline** in **
 
 ![Greenhouse gas emissions (in metric tons of CO2 equivalent produced per one thousand dollars of GDP per year)](https://github.com/user-attachments/assets/364ddc1a-c883-4a54-9204-4d6986334deb)
 
-#### Key Insights
-
 ![Yearly Carbon Dioxide Intensity per Gross Domestic Product (Metric Tons of CO₂ Equivalent per Thousand USD) for Top 10 highest emitted countries](https://github.com/user-attachments/assets/25ea72de-1b77-4091-8701-fd068e83b772)
+
+#### Key Insights
 
 - **Leading Nations' Trends:** Among the **top 10 emitting countries**:
   - **China, Russia, India, and Ukraine** demonstrate the **most pronounced declines**, reflecting substantial efforts to mitigate their carbon footprints and transition to cleaner energy sources.
@@ -484,7 +484,7 @@ In the early 1970s, the world was witnessing rapid industrialization and urbaniz
 
 This analysis presents a comprehensive overview of net global greenhouse gas emissions across different macro-regions from **1973 to 2023**. The accompanying graph highlights the shifting landscape of emissions, revealing both the challenges and progress made in mitigating climate change.
 
-![Net Global Greenhouse gas Emissions by Macro-region (1973-2023)](https://github.com/user-attachments/assets/626fdf24-1880-4f4c-a4a8-55b6bfe405a6)
+![Net Global Greenhouse gas Emissions by eachMacro-region (1973-2023)](https://github.com/user-attachments/assets/626fdf24-1880-4f4c-a4a8-55b6bfe405a6)
 
 #### Key Insights
 
@@ -492,8 +492,6 @@ This analysis presents a comprehensive overview of net global greenhouse gas emi
 - **Developed vs. Developing Regions**: The graph clearly illustrates the disparity in emissions between developed and developing regions. While developed regions, such as North America and Europe, have made strides in reducing emissions, Southeast Asia, the Developing Pacific, and Africa face ongoing challenges in balancing economic growth with environmental sustainability.
 - **Notable Milestones**: Significant events have influenced emissions trends, including international agreements such as the Kyoto Protocol (1997) and the Paris Agreement (2015). These agreements aimed to set binding targets for emissions reductions and have prompted many regions to adopt cleaner technologies and policies.
 - **Recent Trends**: The last few years have shown a marked increase in emissions in several macro-regions, particularly due to economic recovery post-pandemic and the resurgence of fossil fuel consumption. This trend underscores the need for sustained commitment to climate action and renewable energy adoption.
-
-![Net Global Greenhouse Gas Emissions by Macro-region](link_to_your_graph_image)
 
 ---
 
