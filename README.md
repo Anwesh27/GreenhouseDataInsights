@@ -1,6 +1,7 @@
 # 🌍 **Comprehensive Greenhouse Gas Emissions Analysis (1970-2023)**  
 A focused analysis of global greenhouse gas emissions trends, contributors, and actionable insights using advanced Python analytics and interactive visualizations. This project demonstrates the power of data-driven storytelling to address environmental challenges.
 
+#greenhousegas #climatechange #emissionsanalysis #datavisualization #dataanalysis #python #globalwarming #trendsanalysis #sustainability #environmentalscience
 ---
 
 ## 📌 **Project Objectives**  
