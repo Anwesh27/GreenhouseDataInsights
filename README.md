@@ -480,7 +480,7 @@ In the early 1970s, the world was witnessing rapid industrialization and urbaniz
 
 ![Net Global Greenhouse Gas Emissions by Land Change Factors](link_to_your_graph_image)
 
-### 🌏Net Global Greenhouse Gas Emissions by Macro-region (1973-2023)
+### 🌏Net Global Greenhouse Gas Emissions by each Macro-region (1973-2023)
 
 This analysis presents a comprehensive overview of net global greenhouse gas emissions across different macro-regions from **1973 to 2023**. The accompanying graph highlights the shifting landscape of emissions, revealing both the challenges and progress made in mitigating climate change.
 
