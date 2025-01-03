@@ -517,9 +517,9 @@ This project lays the foundation for:
 This project reflects my passion for solving critical global issues through data-driven insights. If you found this repository helpful or would like to collaborate, feel free to reach out!
 
 ## 📫 **Contact Information**
-**Name: Anwesh Nandi**
-**Email: anwesh.nandi1@gmail.com**
-**Location: Kolkata, India**
-**LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/anwesh-nandi-aab8011b7)**
+- **Name: Anwesh Nandi**
+- **Email: anwesh.nandi1@gmail.com**
+- **Location: Kolkata, India**
+- **LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/anwesh-nandi-aab8011b7)**
 
 ## 🌟 **Your feedback is invaluable. Please star ⭐ this repository if you find it insightful!**
