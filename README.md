@@ -500,16 +500,26 @@ This analysis presents a comprehensive overview of net global greenhouse gas emi
 
 ---
 
-## 📂 **Repository Structure**  
-```text
-📁 Greenhouse_Gas_Emissions_Analysis  
-├── 📂 Data/  
-│   ├── Emissions_1970_2023.xlsx  
-│   ├── Metadata.md  
-├── 📂 Visualizations/  
-│   ├── Global_Emissions_Map.png  
-│   ├── Sectoral_Breakdown_Pie_Chart.png  
-├── analysis.ipynb  
-├── requirements.txt  
-├── LICENSE  
-└── README.md  
+## 🛠️ **Tech Stack**
+- **Languages**: Python
+- **Libraries**: pandas, numpy, matplotlib, seaborn, plotly.express
+- **Visualization**: Plotly, Matplotlib, Seaborn
+- **Tools**: Jupyter Notebook
+
+## 📈 **Future Prospects**
+This project lays the foundation for:
+
+- **Developing predictive models for emissions forecasting.**
+- **Integrating real-time data streams for policy evaluation.**
+- **Expanding the analysis to include socioeconomic factors and mitigation costs.**
+
+## 🎉 **Acknowledgements**
+This project reflects my passion for solving critical global issues through data-driven insights. If you found this repository helpful or would like to collaborate, feel free to reach out!
+
+## 📫 **Contact Information**
+**Name: Anwesh Nandi**
+**Email: anwesh.nandi1@gmail.com**
+**Location: Kolkata, India**
+**LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/anwesh-nandi-aab8011b7)**
+
+## 🌟 **Your feedback is invaluable. Please star ⭐ this repository if you find it insightful!**
