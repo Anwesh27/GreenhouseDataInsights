@@ -24,7 +24,7 @@ The data used in this analysis is sourced from the **EDGAR (Emissions Database f
 Complete details and the full citation of the EDGAR Community GHG Database are available in the **'Sources and References'** section of the EDGAR website.
 
 For further information, please refer to:
-- EDGAR Community GHG Database: [Database](https://edgar.jrc.ec.europa.eu)
+- EDGAR Community GHG Database: [EDGAR - Emissions Database for Global Atmospheric Research](https://edgar.jrc.ec.europa.eu)
 - IEA Data and Statistics: [IEA](https://www.iea.org/data-and-statistics)
 - For more information, visit the official EDGAR report:  [EDGAR Report 2024](https://edgar.jrc.ec.europa.eu/report_2024#intro)
 
