@@ -516,7 +516,7 @@ This project lays the foundation for:
 This project reflects my passion for solving critical global issues through data-driven insights. If you found this repository helpful or would like to collaborate, feel free to reach out!
 
 ##📎 **Hashtags for Promotion**
- #greenhousegas #climatechange #emissionsanalysis #datavisualization #dataanalysis #python #globalwarming #trendsanalysis #sustainability #environmentalscience
+- #greenhousegas #climatechange #emissionsanalysis #datavisualization #dataanalysis #python #globalwarming #trendsanalysis #sustainability #environmentalscience
 
 ## 📫 **Contact Information**
 - **Name: Anwesh Nandi**
