@@ -17,6 +17,28 @@ A focused analysis of global greenhouse gas emissions trends, contributors, and 
 
 ---
 
+### **Data Source and Citation**
+
+The data used in this analysis is sourced from the **EDGAR (Emissions Database for Global Atmospheric Research) Community GHG Database**, a collaboration between the **European Commission, Joint Research Centre (JRC)** and the **International Energy Agency (IEA)**. This includes the **IEA-EDGAR CO2** component from version **EDGAR_2024_GHG (2024)**.
+
+Complete details and the full citation of the EDGAR Community GHG Database are available in the **'Sources and References'** section of the EDGAR website.
+
+For further information, please refer to:
+- EDGAR Community GHG Database: [Database](https://edgar.jrc.ec.europa.eu)
+- IEA Data and Statistics: [IEA](https://www.iea.org/data-and-statistics)
+- For more information, visit the official EDGAR report:  [EDGAR Report 2024](https://edgar.jrc.ec.europa.eu/report_2024#intro)
+
+---
+
+### **Global Emissions Growth**
+
+*   **1970**: Global greenhouse gas (GHG) emissions totaled **25.42 Gt CO2 equivalent (CO2e)** per year.
+*   **2023**: Emissions surged to over **53.74 Gt CO2 equivalent (CO2e)** per year.
+*   **Percentage Increase**: The increase in emissions from 1970 to 2023 is approximately **111.13%**.
+*   **Key Period**: The most significant emissions growth occurred between **2002 and 2008**, primarily driven by **rapid industrialization**.
+
+---
+
 ## 🚀 **Key Features**  
 ### **Data Handling and Cleaning**  
 - Imported and processed data from multiple Excel sheets.  
