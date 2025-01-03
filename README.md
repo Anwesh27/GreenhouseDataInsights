@@ -44,6 +44,8 @@ A focused analysis of global greenhouse gas emissions trends, contributors, and 
 
 The following graph illustrates the **greenhouse gas emissions trends** from **1970 to 2023** for the **United States**, **China**, **India**, **Russia**, and **Japan**:
 
+![Greenhouse Gas Emissions (in Megatonnes CO2 Equivalent per Year) from 1970 to 2023](https://github.com/user-attachments/assets/a9d4bfa7-fc0a-475e-9610-209d350ce695)
+
 From the multi-line graph, we observe that:
 
 - **China** exhibits the **sharpest rise in emissions**, especially from **2000 to 2023**, reflecting its **rapid industrialization** and **economic growth**.
@@ -56,6 +58,9 @@ This analysis underscores the **shifting dynamics** of global emissions, highlig
 ### **Top Contributors to Global Greenhouse Gas Emissions**
 
 Greenhouse gas emissions are a critical challenge in addressing climate change. They stem from various sectors, shaped by a country’s industrial base, energy policies, and resource utilization. Below is a comprehensive overview of the top contributors, detailing their emission percentages, total emissions, and the primary sources driving these figures.
+
+![Top 10 Countries by Total Emissions](https://github.com/user-attachments/assets/5cd10af7-417e-4231-b049-b4dbe2a823e7)
+
 
 #### **Global Contributors and Emission Profiles**
 The analysis reveals significant contributions from a few countries, underscoring the importance of targeted strategies for reduction:
@@ -125,6 +130,8 @@ The analysis reveals significant contributions from a few countries, underscorin
 ### **Contributions of Top 5 Emitting Countries to Global Emissions**
 
 The following graph illustrates the contributions of the **top five emitting countries**—**China**, **United States**, **India**, **Russia**, and **Japan**—to **global greenhouse gas emissions** over the years. 
+![Percentage Contribution of Top 5 Greenhouse Gas Emitting Countries to Total Emissions (1970-2023)](https://github.com/user-attachments/assets/c4987e69-b40a-4900-8a08-24e0e4d61340)
+
 From **1970** to **2023**, the share of emissions from these countries has increased from **48.4%** to **57.5%** of total global emissions. This rise highlights the growing impact of these major economies on the overall emissions landscape and underscores the urgent need for targeted policies to address their contributions.
 
 # 🌍 Sectoral Dynamics of Global Emissions  
@@ -160,6 +167,8 @@ The distribution of **greenhouse gas emissions** varies significantly across con
 | **South America**  | 94.92                              | 4.86                       |
 | **Oceania**        | 31.47                              | 1.61                       |
 
+![Total Greenhouse Gas Emissions by Continent (1970-2023)](https://github.com/user-attachments/assets/5c196847-86ca-4806-9cf2-59b607907f3b)
+
 ### **Analysis of Emissions by Continent**
 
 - **Asia** is the largest contributor, accounting for **49.15%** of global emissions, driven by rapid industrial growth and population density.
@@ -177,6 +186,8 @@ International transport plays a significant role in global greenhouse gas emissi
 | **International Aviation**       | 18.32                    |
 | **International Shipping**       | 27.63                    |
 
+![Total Emissions from International Aviation and Shipping (1970-2023)](https://github.com/user-attachments/assets/0dc7a70e-4ef5-4014-b362-bb65528c7ac4)
+
 - **International Aviation** contributes approximately **18.32 Gt CO2eq/yr**, largely due to the high fuel consumption of aircraft during long-haul flights. This sector has seen increasing emissions due to the growing demand for air travel globally.
 - **International Shipping**, with emissions totaling about **27.63 Gt CO2eq/yr**, is a major contributor to global trade logistics. While shipping is generally more fuel-efficient than aviation on a per-ton basis, the sheer volume of goods transported leads to significant emissions.
 
@@ -188,26 +199,32 @@ Understanding the contributions of various sectors to **greenhouse gas emissions
 
 ### 1. CO2 Emissions by Sector
 
-![CO2 Emissions](link_to_your_CO2_pie_chart)  
+![CO2 Emissions](https://github.com/user-attachments/assets/6f602eb7-f5a6-4140-8ea8-735df649fab1)
+ 
 *The **CO2 emissions** chart shows that sectors such as **transport**, **power industry**, and **industrial combustion** account for approximately **70%** of total contributions. Notably, the power industry has experienced the **sharpest rise since 1970**, highlighting an urgent need for innovation in **sustainable energy production**. Meanwhile, the industrial combustion sector has seen a significant increase since **2002**, necessitating cleaner technologies.*
 
-![CO2 Yearly Trends](link_to_your_CO2_trends_chart)  
+![Year-wise CO2 Emissions by Sectors (1970-2023)](https://github.com/user-attachments/assets/21064cf0-dbf8-44fb-9af3-ade60a845e34)
+  
 *This graph illustrates the yearly trends in CO2 emissions, reinforcing the need for strategic interventions to reverse these upward trajectories.*
 
 ### 2. N2O Emissions by Sector
 
-![N2O Emissions](link_to_your_N2O_pie_chart)  
+![N2O Emissions](https://github.com/user-attachments/assets/194a312c-04ed-475f-977d-6511245f3307)
+ 
 *The N2O emissions breakdown reveals that **agriculture** and **industrial processes** represent around **90%** of total emissions. The trends indicate that the **power industry** and **transport** sectors have experienced the **sharpest rise**, while industrial combustion also saw a marked increase since **2002**. This underscores the necessity for adopting **sustainable practices** and improved management in these sectors.*
 
-![N2O Yearly Trends](link_to_your_N2O_trends_chart)  
+![Year-wise N2O Emissions by Sectors (1970-2023)](https://github.com/user-attachments/assets/d476b39a-f6d3-45ab-a3be-4c250d5a1ece)
+
 *The yearly trends for N2O emissions highlight the urgency of addressing these increases to mitigate environmental impact.*
 
 ### 3. CH4 Emissions by Sector
 
-![CH4 Emissions](link_to_your_CH4_pie_chart)  
+![CH4 Emissions](https://github.com/user-attachments/assets/c48c5330-cb57-447e-a5a1-0d53908fad96)
+ 
 *The CH4 emissions chart indicates that **agriculture**, **fuel exploitation**, and **waste management** collectively contribute approximately **90%** of total emissions. Interestingly, these sectors have experienced a **stable rise** over the years, suggesting the need for targeted interventions to mitigate methane emissions.*
 
-![CH4 Yearly Trends](link_to_your_CH4_trends_chart)  
+![Year-wise CH4 Emissions by Sector (1970-2023)](https://github.com/user-attachments/assets/0d04bb04-6bbb-4f50-a38f-9de9f82c3bfa)
+ 
 *The yearly trends for CH4 emissions demonstrate a consistent upward trajectory, emphasizing the importance of innovative solutions to curb these emissions.*
 
 ## Major Greenhouse Gases Contributions
@@ -222,7 +239,8 @@ Understanding the contributions of greenhouse gases is vital for effective clima
 | N2O                | 107,318                  | 5.37                    |
 | Fluorinated Gases  | 32,132                   | 1.61                    |
 
-![Greenhouse Gas Emissions](link_to_your_bar_chart)  
+![Category of Emission](https://github.com/user-attachments/assets/7eeaa22f-e015-4c3a-be98-0037eefcadf8)
+  
 *CO2 accounts for **71.24%** of total emissions, making it the primary driver of climate change. CH4 contributes **21.78%**, primarily from agriculture and landfills. N2O and fluorinated gases contribute **5.37%** and **1.61%**, respectively.*
 
 ### Key Insights
@@ -252,7 +270,8 @@ Analyzing emissions by sector is essential for identifying key contributors to c
 | Processes            | 148,070.71               | 7.41                    |
 | Waste                | 74,610.83                | 3.73                    |
 
-![Emissions by Sector](link_to_your_sector_chart) 
+![Total greenhouse gas emissions by sector (in Mt CO2eq/yr)](https://github.com/user-attachments/assets/cee0e3fa-44d5-4439-81a9-824b7a92a3cf)
+
 *This analysis reveals that the **Power Industry** is the largest emitter, contributing **24.90%** of total emissions. The **Transport** and **Agriculture** sectors follow, accounting for **14.97%** and **14.82%**, respectively.*
 
 - **Power Industry**: As the top emitter, transitioning to renewable energy is critical.
@@ -397,16 +416,21 @@ Analyzing emissions by sector is essential for identifying key contributors to c
 
 The line graph presents a compelling narrative of the **dramatic decline** in **greenhouse gas emissions**, measured in **metric tons of CO2 equivalent per $1,000 of GDP**, from **1970 to 2023**. This trend signifies a pivotal shift towards **sustainable practices** and innovative **technological advancements** that enhance **energy efficiency** within economic frameworks.
 
+![Greenhouse gas emissions (in metric tons of CO2 equivalent produced per one thousand dollars of GDP per year)](https://github.com/user-attachments/assets/364ddc1a-c883-4a54-9204-4d6986334deb)
+
 ## Key Insights
+![Yearly Carbon Dioxide Intensity per Gross Domestic Product (Metric Tons of CO₂ Equivalent per Thousand USD) for Top 10 highest emitted countries](https://github.com/user-attachments/assets/25ea72de-1b77-4091-8701-fd068e83b772)
 
 - **Leading Nations' Trends:** Among the **top 10 emitting countries**:
   - **China, Russia, India, and Ukraine** demonstrate the **most pronounced declines**, reflecting substantial efforts to mitigate their carbon footprints and transition to cleaner energy sources.
   - Conversely, **Brazil's emissions** show a relatively **stable trajectory**, suggesting limited progress in reducing emissions intensity.
   - The **United States** and **United Kingdom** also report significant reductions; however, their declines are **less pronounced** than that of **China**, highlighting varying national commitments to emission reductions.
 
-## Observations on Greenhouse Gas Emissions (1979-2023)
+## Observations on Greenhouse Gas Emissions per capita (1979-2023)
 
 The line graph illustrates the **trend in greenhouse gas emissions** per person per year (measured in metric tons of carbon dioxide equivalent) from **1979 to 2023**.
+
+![Greenhouse gas emissions (per person per year, expressed in metric tons of carbon dioxide equivalent)](https://github.com/user-attachments/assets/3fd409d8-5dc1-4ba8-ae3e-6c09fcdae4e3)
 
 - **Sharp Decrease (1979-2002):** The period from **1979 to 2002** shows a significant decline in emissions. This decrease may be attributed to:
   - Implementation of **environmental policies**, such as the **Montreal Protocol** (1987), which focused on reducing substances that deplete the ozone layer and indirectly led to lower greenhouse gas emissions.
@@ -423,7 +447,11 @@ The line graph illustrates the **trend in greenhouse gas emissions** per person 
   - Changes in **regulatory frameworks**; the **Paris Agreement** (2015) initiated global commitments to limit temperature rise, influencing emission strategies worldwide.
   - Innovations in **technology**, such as the **rise of electric vehicles** (EVs) in the 2010s, contributed to lower emissions in transportation, though increases in overall production can offset these gains.
 
+![Yearly Per Capita Greenhouse Gas Emissions (in Tonnes of Carbon Dioxide Equivalent) for the top 10 highest emitted countries](https://github.com/user-attachments/assets/833cc195-3e9d-4fcb-a5db-0cd36f0ce80b)
+
 # Net Greenhouse Gas Emissions by Macro-Regions
+
+![Net greenhouse gas emissions by macro-regions (in Megatonnes Carbon Dioxide equivalent per year)](https://github.com/user-attachments/assets/f87a1f52-ef35-429a-9fb8-592d9cb8316a)
 
 - The graph displays notable **fluctuations** in emissions across different macro-regions.
 - A **significant decline** in emissions was observed from **2006 to 2010**, indicating a pivotal shift in emission trends during this period.
@@ -431,6 +459,8 @@ The line graph illustrates the **trend in greenhouse gas emissions** per person 
 - Subsequent fluctuations indicate ongoing challenges in maintaining consistent emission reductions across macro-regions.
 
 # The Story of Net Global Greenhouse Gas Emissions by Land Change Factors (1973-2023)
+
+![Net Global greenhouse gas emissions by Land Change Factors (1973-2023)](https://github.com/user-attachments/assets/1b20cdab-e5f7-4bb8-8a69-a95d2210dc39)
 
 As we journey through the last five decades, we uncover the intricate tale of our planet's changing landscapes and the profound impact they have on greenhouse gas emissions. The line graph depicting net global greenhouse gas emissions from **1973 to 2023** reveals a story of deforestation, land management, and environmental challenges.
 
@@ -450,6 +480,8 @@ In the early 1970s, the world was witnessing rapid industrialization and urbaniz
 # Net Global Greenhouse Gas Emissions by Macro-region (1973-2023)
 
 This analysis presents a comprehensive overview of net global greenhouse gas emissions across different macro-regions from **1973 to 2023**. The accompanying graph highlights the shifting landscape of emissions, revealing both the challenges and progress made in mitigating climate change.
+
+![Net Global Greenhouse gas Emissions by Macro-region (1973-2023)](https://github.com/user-attachments/assets/626fdf24-1880-4f4c-a4a8-55b6bfe405a6)
 
 ## Key Insights
 
